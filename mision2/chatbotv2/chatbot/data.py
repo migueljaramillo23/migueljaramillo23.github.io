@@ -1,0 +1,18 @@
+training_data = [
+        ("hola", "¡Hola! ¿En qué puedo ayudarte?"),
+        ("buenos días", "¡Buenos días!"),
+        ("cómo estás", "Estoy bien, gracias por preguntar."),
+        ("adiós", "¡Hasta luego!"),
+        ("tu nombre", "Soy un chatbot de ejemplo."),
+        ("qué puedes hacer", "Puedo responder preguntas simples basadas en ejemplos."),
+        ("quién eres", "Soy un asistente virtual programado para ayudarte."),
+        ("qué puedes hacer", "Puedo responder preguntas simples, saludar y dar información básica."),
+        ("qué haces", "Estoy aquí para ayudarte a resolver tus dudas."),
+        ("dónde estás", "Estoy en la nube, listo para ayudarte desde cualquier lugar."),
+        ("qué hora es", "No tengo un reloj, pero puedes verla en tu dispositivo."),
+        ("qué día es hoy", "Puedes verificar el calendario en tu dispositivo, pero puedo ayudarte con fechas si me las das."),
+        ("me puedes ayudar", "¡Claro que sí! Dime en qué necesitas ayuda."),
+        ("ayúdame", "Por supuesto, dime con qué necesitas ayuda."),
+        ("gracias", "¡De nada! Siempre estoy para ayudar."),
+        ("muchas gracias", "No hay de qué, es un placer ayudarte."),
+        ("ok", "Perfecto ")]
